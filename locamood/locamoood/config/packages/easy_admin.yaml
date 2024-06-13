@@ -1,0 +1,5 @@
+easy_admin:
+    entities:
+        - App\Entity\Categorie
+        - App\Entity\SousCategorie
+        - App\Entity\Produit

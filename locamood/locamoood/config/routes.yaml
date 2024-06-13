@@ -1,0 +1,7 @@
+admin_dashboard:
+    path: /admin
+    controller: App\Controller\Admin\DashboardController::index
+
+product_detail:
+    path: /detail/{id}
+    controller: App\Controller\DetailController::detail

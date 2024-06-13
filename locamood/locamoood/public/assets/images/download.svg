@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="download" transform="translate(-997 -963)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1049 963) rotate(90)" fill="none" stroke="#263135" stroke-width="1">
+      <circle cx="26" cy="26" r="26" stroke="none"/>
+      <circle cx="26" cy="26" r="25.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-download" data-name="Icon feather-download" transform="translate(1009.167 973.5)">
+      <path id="Tracé_3835" data-name="Tracé 3835" d="M23.928,22.5v4.317a2.159,2.159,0,0,1-2.159,2.159H6.659A2.159,2.159,0,0,1,4.5,26.817V22.5" transform="translate(0 -5.048)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Tracé_3836" data-name="Tracé 3836" d="M10.5,15l5.4,5.4,5.4-5.4" transform="translate(-1.683 -2.945)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Tracé_3837" data-name="Tracé 3837" d="M18,17.452V4.5" transform="translate(-3.786)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

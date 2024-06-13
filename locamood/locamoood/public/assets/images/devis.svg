@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.213" height="29.72" viewBox="0 0 24.213 29.72">
+  <g id="devis" transform="translate(-1017.943 -482.894)">
+    <path id="Tracé_3822" data-name="Tracé 3822" d="M1041.84,483.764v2.8a.479.479,0,0,0,.479.479h.192a.479.479,0,0,0,.475-.417l.008-.059a1.676,1.676,0,0,1,1.662-1.459h0a1.676,1.676,0,0,1,1.662,1.459l.008.059a.479.479,0,0,0,.475.417h0a.479.479,0,0,0,.479-.479v-2.8a.37.37,0,0,0-.37-.37h-4.7A.37.37,0,0,0,1041.84,483.764Z" transform="translate(-17.818 0)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Groupe_429" data-name="Groupe 429" transform="translate(1029.262 494.983)">
+      <rect id="Rectangle_444" data-name="Rectangle 444" width="12.393" height="17.131" rx="1.497" transform="translate(0 0)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_445" data-name="Rectangle 445" width="8.915" height="1.962" transform="translate(1.739 1.74)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_446" data-name="Rectangle 446" width="8.915" height="8.535" transform="translate(1.739 6.743)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_19" data-name="Ligne 19" y2="6.429" transform="translate(3.976 8.849)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_20" data-name="Ligne 20" y2="8.594" transform="translate(6.196 6.743)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_21" data-name="Ligne 21" y2="8.594" transform="translate(8.417 6.802)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_22" data-name="Ligne 22" x1="8.915" transform="translate(1.739 8.82)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_23" data-name="Ligne 23" x1="8.915" transform="translate(1.739 11.04)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_24" data-name="Ligne 24" x1="8.915" transform="translate(1.739 13.261)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <path id="Tracé_3823" data-name="Tracé 3823" d="M1064.648,490.04h6v10" transform="translate(-35.187 -5.062)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Tracé_3824" data-name="Tracé 3824" d="M1029.263,513.4h-10.82V490.04h5.579" transform="translate(0 -5.062)" fill="none" stroke="#263135" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Groupe_430" data-name="Groupe 430" transform="translate(1022.646 489.763)">
+      <line id="Ligne_25" data-name="Ligne 25" x2="8.101" transform="translate(0 0)" fill="none" stroke="#263135" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Ligne_26" data-name="Ligne 26" x2="8.101" transform="translate(0.09 2.115)" fill="none" stroke="#263135" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
